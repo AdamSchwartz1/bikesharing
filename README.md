@@ -10,6 +10,9 @@ There is a description for each of the visulations listed in the Tableau story.
 ## Summary
 There were several things that stood out to me while doing this analysis. First, the majority of people who used the NYC service were males and were subscribed to the service. It would be good to create an incentive for one time users to subscribe to this program in hopes of making them use it more. Second, the majority of the rides lasted for less than 40 minutes with the peak ride duration being at 5 minutes. Lastly was that there were certain times of each day that were clearly the most popular times to ride. On weekends, it was late morning/afternoon and on weekdays it ws the morning and afternoon commute times.
 
+### Breakdown of Gender and Usertype
+<img width="849" alt="Screen Shot 2022-02-25 at 4 55 41 PM" src="https://user-images.githubusercontent.com/90946252/155814097-b8dcd682-e697-49a5-83c7-11fd94561302.png">
+
 ### Dashboard
 [link to dashboard](https://public.tableau.com/app/profile/adam7800/viz/NYCRideShare/CitiProposal#1)
 
