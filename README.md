@@ -13,8 +13,9 @@ There were several things that stood out to me while doing this analysis. First,
 ### Breakdown of Gender and Usertype
 <img width="849" alt="Screen Shot 2022-02-25 at 4 55 41 PM" src="https://user-images.githubusercontent.com/90946252/155814097-b8dcd682-e697-49a5-83c7-11fd94561302.png">
 
-### Male vs Female Use Time
-<img width="1002" alt="Screen Shot 2022-02-25 at 4 56 41 PM" src="https://user-images.githubusercontent.com/90946252/155814317-ec668b3d-7af3-494f-af2f-04954ddbbab9.png">
+### Use Time
+<img width="499" alt="Screen Shot 2022-02-25 at 5 03 31 PM" src="https://user-images.githubusercontent.com/90946252/155814649-67616a48-56d4-4e44-adf9-ba72aaffa6d1.png">
+
 
 ### Dashboard
 [link to dashboard](https://public.tableau.com/app/profile/adam7800/viz/NYCRideShare/CitiProposal#1)
